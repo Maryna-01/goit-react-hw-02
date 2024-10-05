@@ -1,0 +1,11 @@
+
+.feedback {
+  margin-top: 20px;
+  text-align: center;
+  font-size: 18px;
+}
+
+.feedback p {
+  margin: 5px 0;
+  color: #000;
+}
