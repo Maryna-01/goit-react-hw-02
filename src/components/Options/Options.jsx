@@ -1,5 +1,3 @@
-// src/components/Options/Options.jsx
-import React from "react"; // Рекомендований імпорт React
 import styles from "./Options.module.css";
 
 const Options = ({ onLeaveFeedback, onResetFeedback, totalFeedback }) => {
